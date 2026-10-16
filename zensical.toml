@@ -1,0 +1,23 @@
+[project]
+site_name = "My Digital Education Portfolio"
+site_description = "Secondary Design & Technology | Creativity and Independent Learning"
+site_author = "Kirito Li"
+docs_dir = "docs"
+site_dir = "site"
+use_directory_urls = false
+extra_css = ["stylesheets/palette.css"]
+nav = [
+  { "Home" = "index.md" },
+  { "Teaching Resources" = "1-teaching-resources.md" },
+  { "Digital Citizenship" = "2-digital-citizenship.md" },
+  { "Inclusive Practice" = "3-inclusive-practice.md" },
+  { "Professional Learning" = "4-professional-learning.md" },
+]
+
+[project.theme]
+features = ["navigation.tabs", "navigation.tabs.sticky", "navigation.footer"]
+
+[project.theme.palette]
+scheme = "default"
+primary = "custom"
+accent = "custom"
