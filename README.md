@@ -1,4 +1,4 @@
-﻿# Welcome to my Digital Education Portfolio
+﻿# Welcome to my Digital Education Portfolio!
 
 This is where I build my portfolio, sharing my teaching resources, ideas, and professional learning.
 
